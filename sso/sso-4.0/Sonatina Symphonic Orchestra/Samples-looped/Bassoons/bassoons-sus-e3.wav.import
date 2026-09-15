@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cyllbrtv63bf"
+path="res://.godot/imported/bassoons-sus-e3.wav-44b7265b39c0e8c36f83d4759be531d2.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Bassoons/bassoons-sus-e3.wav"
+dest_files=["res://.godot/imported/bassoons-sus-e3.wav-44b7265b39c0e8c36f83d4759be531d2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

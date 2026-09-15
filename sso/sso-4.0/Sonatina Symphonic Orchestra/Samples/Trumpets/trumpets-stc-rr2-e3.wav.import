@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bkbkv15bpb8mn"
+path="res://.godot/imported/trumpets-stc-rr2-e3.wav-924cb6daf7cf16bfe4a08640ddf4abcb.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Trumpets/trumpets-stc-rr2-e3.wav"
+dest_files=["res://.godot/imported/trumpets-stc-rr2-e3.wav-924cb6daf7cf16bfe4a08640ddf4abcb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

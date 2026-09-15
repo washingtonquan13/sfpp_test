@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cghj4pj2c1grb"
+path="res://.godot/imported/violas-sus-a5.wav-f22ab162fb0c5646da9d4a19dcc34db1.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violas/violas-sus-a5.wav"
+dest_files=["res://.godot/imported/violas-sus-a5.wav-f22ab162fb0c5646da9d4a19dcc34db1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

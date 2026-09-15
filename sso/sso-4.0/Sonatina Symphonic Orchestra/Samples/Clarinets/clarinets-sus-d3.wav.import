@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cya7jh6k70egt"
+path="res://.godot/imported/clarinets-sus-d3.wav-5104d1c4490049696ce594162f9cf139.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Clarinets/clarinets-sus-d3.wav"
+dest_files=["res://.godot/imported/clarinets-sus-d3.wav-5104d1c4490049696ce594162f9cf139.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

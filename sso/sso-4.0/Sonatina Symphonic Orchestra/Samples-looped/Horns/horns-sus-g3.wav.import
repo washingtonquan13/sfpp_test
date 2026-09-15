@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://butesyiojogbn"
+path="res://.godot/imported/horns-sus-g3.wav-45413d7f2f3e60bd12d89ebe228804f4.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Horns/horns-sus-g3.wav"
+dest_files=["res://.godot/imported/horns-sus-g3.wav-45413d7f2f3e60bd12d89ebe228804f4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

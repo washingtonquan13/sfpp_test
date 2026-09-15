@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://byfvjs7ayu7gp"
+path="res://.godot/imported/basses-piz-rr1-c4.wav-cb944365e434d8b1379c15691bfff0bf.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Basses/basses-piz-rr1-c4.wav"
+dest_files=["res://.godot/imported/basses-piz-rr1-c4.wav-cb944365e434d8b1379c15691bfff0bf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

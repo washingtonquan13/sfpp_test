@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dgu17hws2oo0u"
+path="res://.godot/imported/bass_clarinet-g#4.wav-2ff32a3a80e512d7ac72ad0784d9fb9b.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Bass Clarinet/bass_clarinet-g#4.wav"
+dest_files=["res://.godot/imported/bass_clarinet-g#4.wav-2ff32a3a80e512d7ac72ad0784d9fb9b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

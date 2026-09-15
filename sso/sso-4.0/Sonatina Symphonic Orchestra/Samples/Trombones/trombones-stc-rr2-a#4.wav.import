@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://xh36rbqdch14"
+path="res://.godot/imported/trombones-stc-rr2-a#4.wav-017ad71a29d21a6238ce06bfb950ffd5.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Trombones/trombones-stc-rr2-a#4.wav"
+dest_files=["res://.godot/imported/trombones-stc-rr2-a#4.wav-017ad71a29d21a6238ce06bfb950ffd5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

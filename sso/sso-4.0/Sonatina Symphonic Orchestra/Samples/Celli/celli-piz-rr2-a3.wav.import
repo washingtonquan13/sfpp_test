@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://sgbgcs0igpt6"
+path="res://.godot/imported/celli-piz-rr2-a3.wav-dbb3d5308b800ee21785bc63f71cef40.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Celli/celli-piz-rr2-a3.wav"
+dest_files=["res://.godot/imported/celli-piz-rr2-a3.wav-dbb3d5308b800ee21785bc63f71cef40.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

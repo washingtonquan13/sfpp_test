@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://v38gjyux7fen"
+path="res://.godot/imported/tuba-sus-a#1.wav-ba31a3420f7ddc44a9de3e7c3d0b9fd5.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Tuba/tuba-sus-a#1.wav"
+dest_files=["res://.godot/imported/tuba-sus-a#1.wav-ba31a3420f7ddc44a9de3e7c3d0b9fd5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

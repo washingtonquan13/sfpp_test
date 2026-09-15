@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dqdp08you5pnt"
+path="res://.godot/imported/violin_pizz_non_vib_f3.wav-989376179c022f9c9979912e7899dd6d.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violin 2/violin_pizz_non_vib_f3.wav"
+dest_files=["res://.godot/imported/violin_pizz_non_vib_f3.wav-989376179c022f9c9979912e7899dd6d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

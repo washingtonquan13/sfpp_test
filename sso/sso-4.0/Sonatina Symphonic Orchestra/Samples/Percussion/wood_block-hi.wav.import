@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d1iuhccia61on"
+path="res://.godot/imported/wood_block-hi.wav-dee7167c77cf2a66ec145cdfee5d91fb.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/wood_block-hi.wav"
+dest_files=["res://.godot/imported/wood_block-hi.wav-dee7167c77cf2a66ec145cdfee5d91fb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

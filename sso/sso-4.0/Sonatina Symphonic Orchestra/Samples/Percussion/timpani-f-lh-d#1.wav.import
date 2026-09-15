@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://di7p8gbp5eqxk"
+path="res://.godot/imported/timpani-f-lh-d#1.wav-8812b1d4272f101ac3c19b8bfc31e949.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/timpani-f-lh-d#1.wav"
+dest_files=["res://.godot/imported/timpani-f-lh-d#1.wav-8812b1d4272f101ac3c19b8bfc31e949.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://br4y1efcu5nfr"
+path="res://.godot/imported/piccolo-d#6.wav-01daecc9dc9dea02ba0e013763f2252f.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Piccolo/piccolo-d#6.wav"
+dest_files=["res://.godot/imported/piccolo-d#6.wav-01daecc9dc9dea02ba0e013763f2252f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

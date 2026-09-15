@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bhmf7kr8k5fp4"
+path="res://.godot/imported/harp-a3.wav-5cf711e7f0df16842399d6bf6ccdf4c3.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Harp/harp-a3.wav"
+dest_files=["res://.godot/imported/harp-a3.wav-5cf711e7f0df16842399d6bf6ccdf4c3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://12iig7sk3x5a"
+path="res://.godot/imported/1st-violins-sus-a#6.wav-d81ed937878e4af3f4e79135a2e0f008.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/1st Violins/1st-violins-sus-a#6.wav"
+dest_files=["res://.godot/imported/1st-violins-sus-a#6.wav-d81ed937878e4af3f4e79135a2e0f008.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

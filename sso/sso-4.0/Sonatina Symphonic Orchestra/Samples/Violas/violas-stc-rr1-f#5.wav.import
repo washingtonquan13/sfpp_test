@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cwipea0d2foeg"
+path="res://.godot/imported/violas-stc-rr1-f#5.wav-766277e0c2f71d2e0f92e9cbf0d1c0a1.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violas/violas-stc-rr1-f#5.wav"
+dest_files=["res://.godot/imported/violas-stc-rr1-f#5.wav-766277e0c2f71d2e0f92e9cbf0d1c0a1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

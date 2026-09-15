@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bo0a4hfuml21k"
+path="res://.godot/imported/violin_tremolo_G5.wav-e20fb87f514d90303c27c61713727e8d.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violin 2/violin_tremolo_G5.wav"
+dest_files=["res://.godot/imported/violin_tremolo_G5.wav-e20fb87f514d90303c27c61713727e8d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c2o4wej2xqodw"
+path="res://.godot/imported/cymbal_roll-a-p.wav-bd74f98af5bbba63b36424481cb20a36.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/cymbal_roll-a-p.wav"
+dest_files=["res://.godot/imported/cymbal_roll-a-p.wav-bd74f98af5bbba63b36424481cb20a36.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ckk7cjb3h1j1r"
+path="res://.godot/imported/tenor_trombone-e4.wav-fe53ff300b2ee5cf9ee1498d891ea56b.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Tenor Trombone/tenor_trombone-e4.wav"
+dest_files=["res://.godot/imported/tenor_trombone-e4.wav-fe53ff300b2ee5cf9ee1498d891ea56b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

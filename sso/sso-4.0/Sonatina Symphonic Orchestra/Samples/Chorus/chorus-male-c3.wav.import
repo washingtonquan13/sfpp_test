@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dfmf6uak6tuv2"
+path="res://.godot/imported/chorus-male-c3.wav-7a3efa55cd3211452ab9b01bdf4b1558.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Chorus/chorus-male-c3.wav"
+dest_files=["res://.godot/imported/chorus-male-c3.wav-7a3efa55cd3211452ab9b01bdf4b1558.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

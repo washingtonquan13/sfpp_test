@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cnipmnn2b8faa"
+path="res://.godot/imported/chimes-f#4.wav-8fdc55036b9c2bf3154a6e8dc33a3a46.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/chimes-f#4.wav"
+dest_files=["res://.godot/imported/chimes-f#4.wav-8fdc55036b9c2bf3154a6e8dc33a3a46.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

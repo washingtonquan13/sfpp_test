@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ccgk403mx58h5"
+path="res://.godot/imported/violin_arco_non_vib_G#4.wav-fb6b0aa5e9bdd11eb92686e01f37137e.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violin 2/violin_arco_non_vib_G#4.wav"
+dest_files=["res://.godot/imported/violin_arco_non_vib_G#4.wav-fb6b0aa5e9bdd11eb92686e01f37137e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

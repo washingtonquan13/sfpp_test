@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dcd2hhqos83qs"
+path="res://.godot/imported/castanets-rr1.wav-c3fff1dd69359f31d50ddddbe1adf533.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/castanets-rr1.wav"
+dest_files=["res://.godot/imported/castanets-rr1.wav-c3fff1dd69359f31d50ddddbe1adf533.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

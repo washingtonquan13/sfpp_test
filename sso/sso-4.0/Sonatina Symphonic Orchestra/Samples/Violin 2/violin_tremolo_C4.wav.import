@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ci4dlrhkecxwv"
+path="res://.godot/imported/violin_tremolo_C4.wav-a41de8f28af6c1b87de2a8dfb7732603.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violin 2/violin_tremolo_C4.wav"
+dest_files=["res://.godot/imported/violin_tremolo_C4.wav-a41de8f28af6c1b87de2a8dfb7732603.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

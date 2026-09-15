@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c2lvofqcbswab"
+path="res://.godot/imported/flutes-stc-rr2-a4.wav-f4f909493ae8b137acea7a553583bda1.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Flutes/flutes-stc-rr2-a4.wav"
+dest_files=["res://.godot/imported/flutes-stc-rr2-a4.wav-f4f909493ae8b137acea7a553583bda1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

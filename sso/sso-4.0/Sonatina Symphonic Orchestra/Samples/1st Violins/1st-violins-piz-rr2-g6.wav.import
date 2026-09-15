@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://53c2ik8ejimx"
+path="res://.godot/imported/1st-violins-piz-rr2-g6.wav-d255925f78b1635881d54ed5536e9f4b.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/1st Violins/1st-violins-piz-rr2-g6.wav"
+dest_files=["res://.godot/imported/1st-violins-piz-rr2-g6.wav-d255925f78b1635881d54ed5536e9f4b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

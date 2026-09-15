@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://drpcoax1n5mhh"
+path="res://.godot/imported/trumpet-c#4.wav-6a04879a9c2d738eaa517e6e3a3bd51c.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Trumpet/trumpet-c#4.wav"
+dest_files=["res://.godot/imported/trumpet-c#4.wav-6a04879a9c2d738eaa517e6e3a3bd51c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

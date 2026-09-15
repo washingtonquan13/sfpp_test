@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://oef5du5i0cq3"
+path="res://.godot/imported/snare-lh-p.wav-c6ef8e396cedb7f8ebca22a9428b1546.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/snare-lh-p.wav"
+dest_files=["res://.godot/imported/snare-lh-p.wav-c6ef8e396cedb7f8ebca22a9428b1546.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

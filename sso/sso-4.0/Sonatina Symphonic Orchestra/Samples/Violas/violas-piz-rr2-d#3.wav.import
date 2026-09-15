@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bjsbajk1cqcdu"
+path="res://.godot/imported/violas-piz-rr2-d#3.wav-d0febf641caffa17210f466c75449b8c.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violas/violas-piz-rr2-d#3.wav"
+dest_files=["res://.godot/imported/violas-piz-rr2-d#3.wav-d0febf641caffa17210f466c75449b8c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

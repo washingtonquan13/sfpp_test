@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dv6tapdfc7cjf"
+path="res://.godot/imported/cello-d#5.wav-c89ba4f7ec395e3f8ab5d0be4c745d71.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Cello/cello-d#5.wav"
+dest_files=["res://.godot/imported/cello-d#5.wav-c89ba4f7ec395e3f8ab5d0be4c745d71.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bkjtr4ggw4ilh"
+path="res://.godot/imported/trumpets-sus-c#4.wav-d27607ff0d72164d03826ad4d2785b5b.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Trumpets/trumpets-sus-c#4.wav"
+dest_files=["res://.godot/imported/trumpets-sus-c#4.wav-d27607ff0d72164d03826ad4d2785b5b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

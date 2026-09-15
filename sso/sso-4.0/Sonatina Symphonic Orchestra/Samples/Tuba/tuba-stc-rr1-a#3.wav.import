@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cod34fhex4rnb"
+path="res://.godot/imported/tuba-stc-rr1-a#3.wav-bae6e907af3411acb3532ba473c8e9cc.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Tuba/tuba-stc-rr1-a#3.wav"
+dest_files=["res://.godot/imported/tuba-stc-rr1-a#3.wav-bae6e907af3411acb3532ba473c8e9cc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

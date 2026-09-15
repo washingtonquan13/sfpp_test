@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://betrsmac3hvac"
+path="res://.godot/imported/tambourine-hit-mf.wav-09271404c5f2b0d947ba7f26ed9ec7a1.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/tambourine-hit-mf.wav"
+dest_files=["res://.godot/imported/tambourine-hit-mf.wav-09271404c5f2b0d947ba7f26ed9ec7a1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

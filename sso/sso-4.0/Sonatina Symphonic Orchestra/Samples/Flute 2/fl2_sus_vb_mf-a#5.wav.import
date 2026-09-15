@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c8rftflouclmf"
+path="res://.godot/imported/fl2_sus_vb_mf-a#5.wav-ef307302a81a43df0897c995964e98e0.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Flute 2/fl2_sus_vb_mf-a#5.wav"
+dest_files=["res://.godot/imported/fl2_sus_vb_mf-a#5.wav-ef307302a81a43df0897c995964e98e0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

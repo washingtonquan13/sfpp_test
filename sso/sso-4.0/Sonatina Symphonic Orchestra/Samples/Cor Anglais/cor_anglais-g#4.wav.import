@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dlu8bne7uk2ew"
+path="res://.godot/imported/cor_anglais-g#4.wav-4cc3a0c7c00ae9db8ce6ca0bc9873f6f.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Cor Anglais/cor_anglais-g#4.wav"
+dest_files=["res://.godot/imported/cor_anglais-g#4.wav-4cc3a0c7c00ae9db8ce6ca0bc9873f6f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

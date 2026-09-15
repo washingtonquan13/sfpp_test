@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bj0tn7fblhto8"
+path="res://.godot/imported/bassoons-sus-e5.wav-9894668a4742f6955c873ccc2af5aaad.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Bassoons/bassoons-sus-e5.wav"
+dest_files=["res://.godot/imported/bassoons-sus-e5.wav-9894668a4742f6955c873ccc2af5aaad.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

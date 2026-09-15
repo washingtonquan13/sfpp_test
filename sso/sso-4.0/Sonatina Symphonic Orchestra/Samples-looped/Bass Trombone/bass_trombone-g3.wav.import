@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ctwtgrrk1447c"
+path="res://.godot/imported/bass_trombone-g3.wav-27a5b2b8d63d832fd4e5ed3292922d2e.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Bass Trombone/bass_trombone-g3.wav"
+dest_files=["res://.godot/imported/bass_trombone-g3.wav-27a5b2b8d63d832fd4e5ed3292922d2e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

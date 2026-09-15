@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://m6tu43qd0035"
+path="res://.godot/imported/2nd-violins-stc-rr2-g4.wav-2a48825c37b6b64ea4daf56cc24f720a.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/2nd Violins/2nd-violins-stc-rr2-g4.wav"
+dest_files=["res://.godot/imported/2nd-violins-stc-rr2-g4.wav-2a48825c37b6b64ea4daf56cc24f720a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

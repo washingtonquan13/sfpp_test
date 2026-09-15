@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c7ioy6m856sol"
+path="res://.godot/imported/bass_trombone-e2.wav-c74c9b7a95354af7ccf7c8a6d3e0b10f.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Bass Trombone/bass_trombone-e2.wav"
+dest_files=["res://.godot/imported/bass_trombone-e2.wav-c74c9b7a95354af7ccf7c8a6d3e0b10f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b7msyh8i2hl6v"
+path="res://.godot/imported/2nd-violins-piz-rr2-g5.wav-188d877d4d5b317bd10435ad567c91b5.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/2nd Violins/2nd-violins-piz-rr2-g5.wav"
+dest_files=["res://.godot/imported/2nd-violins-piz-rr2-g5.wav-188d877d4d5b317bd10435ad567c91b5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

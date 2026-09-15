@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dupmach5i6ygw"
+path="res://.godot/imported/oboe-g4.wav-58dd4202bb4d1333a34a53ff3e7b0266.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Oboe/oboe-g4.wav"
+dest_files=["res://.godot/imported/oboe-g4.wav-58dd4202bb4d1333a34a53ff3e7b0266.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

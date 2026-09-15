@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cbne0imvwnn12"
+path="res://.godot/imported/horn-g4.wav-d0bd6181670f0722660223259ef2ebb4.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Horn/horn-g4.wav"
+dest_files=["res://.godot/imported/horn-g4.wav-d0bd6181670f0722660223259ef2ebb4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

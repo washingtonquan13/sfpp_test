@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b4rm607vmo0ix"
+path="res://.godot/imported/trombones-sus-g3.wav-f07626e288677ebfde5a2c4dac0b3450.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Trombones/trombones-sus-g3.wav"
+dest_files=["res://.godot/imported/trombones-sus-g3.wav-f07626e288677ebfde5a2c4dac0b3450.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://crtaijljrplf1"
+path="res://.godot/imported/bass_drum-p.wav-b71c3b2f049f13c682e5a1a1568ef6a9.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/bass_drum-p.wav"
+dest_files=["res://.godot/imported/bass_drum-p.wav-b71c3b2f049f13c682e5a1a1568ef6a9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

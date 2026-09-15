@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dyaalu7uy2wac"
+path="res://.godot/imported/violin_spiccato_A3.wav-2eccfb32fee14c81c026e040b44e53dc.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violin 2/violin_spiccato_A3.wav"
+dest_files=["res://.godot/imported/violin_spiccato_A3.wav-2eccfb32fee14c81c026e040b44e53dc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

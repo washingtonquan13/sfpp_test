@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d3qw3gw6228sm"
+path="res://.godot/imported/basses-stc-rr1-f#1.wav-36654ec0e1766f7d0dd4dc64bd2131f5.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Basses/basses-stc-rr1-f#1.wav"
+dest_files=["res://.godot/imported/basses-stc-rr1-f#1.wav-36654ec0e1766f7d0dd4dc64bd2131f5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

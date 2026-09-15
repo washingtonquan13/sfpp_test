@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cta7k0y6gdgqy"
+path="res://.godot/imported/basses-sus-f#2.wav-6106c51c10eec389ba0368dc92965614.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Basses/basses-sus-f#2.wav"
+dest_files=["res://.godot/imported/basses-sus-f#2.wav-6106c51c10eec389ba0368dc92965614.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

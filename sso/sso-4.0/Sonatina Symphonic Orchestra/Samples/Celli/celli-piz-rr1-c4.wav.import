@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://0u25nst6hiu7"
+path="res://.godot/imported/celli-piz-rr1-c4.wav-3873c3b3cdc7336c0df9b024a065f209.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Celli/celli-piz-rr1-c4.wav"
+dest_files=["res://.godot/imported/celli-piz-rr1-c4.wav-3873c3b3cdc7336c0df9b024a065f209.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

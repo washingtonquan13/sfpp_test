@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://5dr1ua3qa3pa"
+path="res://.godot/imported/contrabassoon-a#1.wav-41ec71b5817a7082e1de16bca782a1cd.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Contrabassoon/contrabassoon-a#1.wav"
+dest_files=["res://.godot/imported/contrabassoon-a#1.wav-41ec71b5817a7082e1de16bca782a1cd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

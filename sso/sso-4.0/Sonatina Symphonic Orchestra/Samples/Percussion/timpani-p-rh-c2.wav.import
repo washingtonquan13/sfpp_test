@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://se38ev371cw2"
+path="res://.godot/imported/timpani-p-rh-c2.wav-1989e3c01fdd629dcb10aeb5e892f345.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/timpani-p-rh-c2.wav"
+dest_files=["res://.godot/imported/timpani-p-rh-c2.wav-1989e3c01fdd629dcb10aeb5e892f345.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

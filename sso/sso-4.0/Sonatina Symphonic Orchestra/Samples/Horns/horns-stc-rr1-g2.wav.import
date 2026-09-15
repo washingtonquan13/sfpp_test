@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b3yvlm6yf20pj"
+path="res://.godot/imported/horns-stc-rr1-g2.wav-d8612bdfcebd1edbea2586fcfa406833.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Horns/horns-stc-rr1-g2.wav"
+dest_files=["res://.godot/imported/horns-stc-rr1-g2.wav-d8612bdfcebd1edbea2586fcfa406833.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

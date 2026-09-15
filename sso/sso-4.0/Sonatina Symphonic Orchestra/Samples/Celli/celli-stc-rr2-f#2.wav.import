@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://djbg77ujgh6ui"
+path="res://.godot/imported/celli-stc-rr2-f#2.wav-3b966fcb293e0d64cd7146a1381bb64c.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Celli/celli-stc-rr2-f#2.wav"
+dest_files=["res://.godot/imported/celli-stc-rr2-f#2.wav-3b966fcb293e0d64cd7146a1381bb64c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

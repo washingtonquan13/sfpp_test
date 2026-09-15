@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://2nbjcc72wjnq"
+path="res://.godot/imported/xylophone-c#4.wav-4b91c6c3c44812f17a7f6fc65679040d.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/xylophone-c#4.wav"
+dest_files=["res://.godot/imported/xylophone-c#4.wav-4b91c6c3c44812f17a7f6fc65679040d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

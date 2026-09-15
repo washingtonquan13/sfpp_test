@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bn7ko8uckmk70"
+path="res://.godot/imported/trumpets-stc-rr1-e5.wav-1ca26dfb80f66849278ca4ee1c1dca7d.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Trumpets/trumpets-stc-rr1-e5.wav"
+dest_files=["res://.godot/imported/trumpets-stc-rr1-e5.wav-1ca26dfb80f66849278ca4ee1c1dca7d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

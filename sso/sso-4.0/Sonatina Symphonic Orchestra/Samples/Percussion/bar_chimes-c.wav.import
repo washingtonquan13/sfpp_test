@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://chicr8vjl5ox"
+path="res://.godot/imported/bar_chimes-c.wav-8b96dd396fc66ac1fc037ad90927ee28.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/bar_chimes-c.wav"
+dest_files=["res://.godot/imported/bar_chimes-c.wav-8b96dd396fc66ac1fc037ad90927ee28.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

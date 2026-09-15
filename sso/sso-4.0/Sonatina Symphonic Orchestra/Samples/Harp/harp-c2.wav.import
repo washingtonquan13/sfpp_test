@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://df6bjp3e3ms0l"
+path="res://.godot/imported/harp-c2.wav-cf8d11b9b3a73539ed35c2bfa94f2b2d.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Harp/harp-c2.wav"
+dest_files=["res://.godot/imported/harp-c2.wav-cf8d11b9b3a73539ed35c2bfa94f2b2d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

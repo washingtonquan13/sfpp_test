@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bfo32udtdy2ow"
+path="res://.godot/imported/flutes-sus-a5.wav-046b591928fe4ef4e50a5115f0380b7d.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Flutes/flutes-sus-a5.wav"
+dest_files=["res://.godot/imported/flutes-sus-a5.wav-046b591928fe4ef4e50a5115f0380b7d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

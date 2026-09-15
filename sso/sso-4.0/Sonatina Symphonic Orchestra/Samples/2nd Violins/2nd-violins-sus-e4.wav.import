@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bpf5pjm2j1v6p"
+path="res://.godot/imported/2nd-violins-sus-e4.wav-0fa5fa26626896409e209fcbdd570591.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/2nd Violins/2nd-violins-sus-e4.wav"
+dest_files=["res://.godot/imported/2nd-violins-sus-e4.wav-0fa5fa26626896409e209fcbdd570591.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

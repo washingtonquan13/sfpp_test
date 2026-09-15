@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d15fit2k4kd8t"
+path="res://.godot/imported/glockenspiel-c3.wav-39a2e5aa0750bbd066e315555b152bef.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/glockenspiel-c3.wav"
+dest_files=["res://.godot/imported/glockenspiel-c3.wav-39a2e5aa0750bbd066e315555b152bef.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

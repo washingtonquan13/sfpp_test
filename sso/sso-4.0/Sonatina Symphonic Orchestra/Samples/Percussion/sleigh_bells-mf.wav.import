@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bwv56p16v201p"
+path="res://.godot/imported/sleigh_bells-mf.wav-d6a92d1904e01d4a065fa17fd4bac11b.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/sleigh_bells-mf.wav"
+dest_files=["res://.godot/imported/sleigh_bells-mf.wav-d6a92d1904e01d4a065fa17fd4bac11b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

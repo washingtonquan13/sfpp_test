@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://hwh0t3d6p737"
+path="res://.godot/imported/timpani-roll-crsc-d#1.wav-ef372f4fa2501842c9bb8c775f99d521.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/timpani-roll-crsc-d#1.wav"
+dest_files=["res://.godot/imported/timpani-roll-crsc-d#1.wav-ef372f4fa2501842c9bb8c775f99d521.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ca0c2j2qcc8vj"
+path="res://.godot/imported/chorus-female-f#5.wav-69ef6247f9041f068fc08e04af217ee2.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Chorus/chorus-female-f#5.wav"
+dest_files=["res://.godot/imported/chorus-female-f#5.wav-69ef6247f9041f068fc08e04af217ee2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

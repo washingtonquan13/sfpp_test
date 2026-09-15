@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dfdmy7fuf5h1a"
+path="res://.godot/imported/celli-sus-d#2.wav-f843ee2d61b39b7137e1c31bcb7c2854.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Celli/celli-sus-d#2.wav"
+dest_files=["res://.godot/imported/celli-sus-d#2.wav-f843ee2d61b39b7137e1c31bcb7c2854.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

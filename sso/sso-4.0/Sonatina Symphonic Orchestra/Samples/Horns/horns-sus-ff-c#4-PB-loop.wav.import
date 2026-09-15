@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqqci8dc1hpyj"
+path="res://.godot/imported/horns-sus-ff-c#4-PB-loop.wav-5fc30b6aac5dba5b38ee73954466647e.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Horns/horns-sus-ff-c#4-PB-loop.wav"
+dest_files=["res://.godot/imported/horns-sus-ff-c#4-PB-loop.wav-5fc30b6aac5dba5b38ee73954466647e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

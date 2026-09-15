@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c27lknabl16k4"
+path="res://.godot/imported/alto_flute-e6.wav-10f06571ab8b050d5f4d3a589b954adc.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Alto Flute/alto_flute-e6.wav"
+dest_files=["res://.godot/imported/alto_flute-e6.wav-10f06571ab8b050d5f4d3a589b954adc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

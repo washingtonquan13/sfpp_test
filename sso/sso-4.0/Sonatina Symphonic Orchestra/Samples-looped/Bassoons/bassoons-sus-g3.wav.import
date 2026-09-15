@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://sdfmemcuf6h8"
+path="res://.godot/imported/bassoons-sus-g3.wav-95178212a99c5039a94f5836ec8df591.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples-looped/Bassoons/bassoons-sus-g3.wav"
+dest_files=["res://.godot/imported/bassoons-sus-g3.wav-95178212a99c5039a94f5836ec8df591.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

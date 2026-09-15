@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d0ijod0pdup7w"
+path="res://.godot/imported/triangle-mtd-rr3.wav-e3f32292b8aa04c0d2608da6a45dcfee.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/triangle-mtd-rr3.wav"
+dest_files=["res://.godot/imported/triangle-mtd-rr3.wav-e3f32292b8aa04c0d2608da6a45dcfee.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

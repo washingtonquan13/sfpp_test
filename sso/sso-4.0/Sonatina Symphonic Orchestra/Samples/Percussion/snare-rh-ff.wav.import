@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://djhb4o7qtenvl"
+path="res://.godot/imported/snare-rh-ff.wav-50aee413f0713d8e8c583065f4ab818a.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/snare-rh-ff.wav"
+dest_files=["res://.godot/imported/snare-rh-ff.wav-50aee413f0713d8e8c583065f4ab818a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dbgh420s7e7ae"
+path="res://.godot/imported/shaker-b.wav-d196993c2820d18d19ac03a9dd8c1a5e.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Percussion/shaker-b.wav"
+dest_files=["res://.godot/imported/shaker-b.wav-d196993c2820d18d19ac03a9dd8c1a5e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

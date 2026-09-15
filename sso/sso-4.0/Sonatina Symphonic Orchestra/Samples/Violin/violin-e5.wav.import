@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dt21nmdkvgacu"
+path="res://.godot/imported/violin-e5.wav-dce7c6b3328020cb07b70527625ab4dc.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Violin/violin-e5.wav"
+dest_files=["res://.godot/imported/violin-e5.wav-dce7c6b3328020cb07b70527625ab4dc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

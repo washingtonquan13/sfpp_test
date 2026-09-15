@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://rmv4pfsc3mmr"
+path="res://.godot/imported/flute-d#3.wav-0db417227949996ecd4a9f8a2aa2d085.sample"
+
+[deps]
+
+source_file="res://sso/sso-4.0/Sonatina Symphonic Orchestra/Samples/Flute/flute-d#3.wav"
+dest_files=["res://.godot/imported/flute-d#3.wav-0db417227949996ecd4a9f8a2aa2d085.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
